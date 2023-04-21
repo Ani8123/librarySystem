@@ -1,0 +1,10 @@
+const constant = {
+    OK : 200,
+    INTERNAL_SERVER_ERROR : "INTERNAL_SERVER_ERROR",
+    INTERNAL_SERVER_ERROR_CODE : 500,
+    INVALID_PARAMETER_CODE : 400,
+    INVALID_PARAMETER : "INVALID_PARAMETER"
+}
+
+
+module.exports = constant;
